@@ -15,6 +15,8 @@ namespace Sistema_Básico_de_Gestión_de_Facturación
         public FormPocesarPago()
         {
             InitializeComponent();
+
+
         }
     }
 }
